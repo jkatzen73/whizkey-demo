@@ -1,6 +1,6 @@
 ---
 applications:
-- name: whizkey
+- name: whizkeyjmk
   memory: 256M
   instances: 2
   services:
