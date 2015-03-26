@@ -1,8 +1,8 @@
 ---
 applications:
-- name: whizkeyjmk
+- name: whizkeyjeff
   memory: 256M
   instances: 2
   services:
-    - database
-    - cache
+    - database-jeff
+    - cache-jeff
